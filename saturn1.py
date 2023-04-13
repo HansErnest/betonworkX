@@ -1,6 +1,8 @@
 work stuffs Xterm
 stacy
-leslie
-cassie
+crazy
 mandy
 pandy
+cassie 
+naomi 
+sandy
